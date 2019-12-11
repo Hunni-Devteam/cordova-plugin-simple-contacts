@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-simple-contacts",
+  "version": "0.0.1",
+  "description": "Simple contact plugin for cordova-based app",
+  "cordova": {
+    "id": "cordova-plugin-simple-contacts",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Hun Kang (hunni.devteam@gmail.com)",
+  "license": "MIT"
+}
